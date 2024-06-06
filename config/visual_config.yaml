@@ -1,0 +1,77 @@
+train_config:
+
+  in_target_train_config:
+    train_times: 
+      value: 5
+
+    num_epochs: 
+      value: 15
+    batch_size: 
+      value: 64
+
+    warmup_ratio:
+      values: [0.2, 0.1, 0]
+    transformer_learning_rate:
+      values: [1.0e-5, 5.0e-6, 1.0e-6]
+    linear_learning_rate:
+      values: [1.0e-3, 1.0e-4, 1.0e-5]
+    weight_decay:
+      values: [1.0e-5, 1.0e-4, 1.0e-3, 1.0e-2]
+
+    if_split_hash_tag:
+      value: False
+    linear_injection:
+      values: [512, -1, 300]
+
+  zero_shot_train_config:
+    train_times: 
+      value: 5
+
+    num_epochs: 
+      value: 5
+    batch_size: 
+      value: 64
+
+    warmup_ratio:
+      values: [0.2, 0.1, 0]
+    transformer_learning_rate:
+      values: [1.0e-5, 5.0e-6, 1.0e-6]
+    linear_learning_rate:
+      values: [1.0e-5, 1.0e-4, 1.0e-3]
+    weight_decay:
+      values: [1.0e-5, 1.0e-3, 1.0e-4, 1.0e-2]
+
+    if_split_hash_tag:
+      value: False
+    linear_injection:
+      values: [512, 300, -1]
+
+# <========================Bert Model Config========================>
+
+model_config:
+  # ----------------------------------------------------------------
+  resnet:
+    label_size:
+      value: Null
+    transformer_tokenizer_name:
+      value: model_state/microsoft/resnet-50
+    transformer_name:
+      value: model_state/microsoft/resnet-50
+
+  # ----------------------------------------------------------------
+  vit:
+    label_size:
+      value: Null
+    transformer_tokenizer_name:
+      value: model_state/google/vit-base-patch16-224
+    transformer_name:
+      value: model_state/google/vit-base-patch16-224
+
+  # ----------------------------------------------------------------
+  swin:
+    label_size:
+      value: Null
+    transformer_tokenizer_name:
+      value: model_state/microsoft/swinv2-base-patch4-window12-192-22k
+    transformer_name:
+      value: model_state/microsoft/swinv2-base-patch4-window12-192-22k

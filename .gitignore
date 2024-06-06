@@ -1,0 +1,9 @@
+.vscode
+*.pyc
+dataset/*
+!dataset/Multi-Modal-Stance-Detection
+model_state
+logs
+outputs
+wandb
+tmpt_logs

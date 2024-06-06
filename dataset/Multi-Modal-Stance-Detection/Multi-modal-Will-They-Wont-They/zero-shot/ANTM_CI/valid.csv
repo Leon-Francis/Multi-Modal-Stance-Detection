@@ -1,0 +1,805 @@
+tweet_id,image_numero,stance_target,stance_label
+931930178506362880,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+805824309356699648,0,Merger and acquisition between Aetna and Humana.,Refute
+938132860858445831,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+937410978685374464,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+941649741821161472,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+971743143472390145,0,Merger and acquisition between Cigna and Express Scripts.,Comment
+952560445021401089,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+939295291253116928,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+1027187150431895553,0,Merger and acquisition between Cigna and Express Scripts.,Comment
+809058107796189184,0,Merger and acquisition between Aetna and Humana.,Unrelated
+809058107796189184,1,Merger and acquisition between Aetna and Humana.,Unrelated
+955713728384729088,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+898925816981188610,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+1073925826717073408,0,Merger and acquisition between CVS Health and Aetna.,Refute
+971781542669406208,0,Merger and acquisition between Cigna and Express Scripts.,Comment
+984075622476664838,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+971705316365791232,0,Merger and acquisition between Cigna and Express Scripts.,Support
+915721487948148736,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+944562063912955905,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+937473138983690240,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+971755509345865728,0,Merger and acquisition between Cigna and Express Scripts.,Comment
+925283398989615104,0,Merger and acquisition between CVS Health and Aetna.,Support
+937682918599811073,0,Merger and acquisition between CVS Health and Aetna.,Comment
+823619924685942788,0,Merger and acquisition between Aetna and Humana.,Refute
+959127961575219200,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+945857501991448576,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+940070428675997696,0,Merger and acquisition between Disney and 21st Century Fox.,Refute
+764130610940174337,0,Merger and acquisition between Aetna and Humana.,Comment
+927984071032045569,0,Merger and acquisition between Disney and 21st Century Fox.,Refute
+1032006423667003394,0,Merger and acquisition between CVS Health and Aetna.,Comment
+971745815575359489,0,Merger and acquisition between Cigna and Express Scripts.,Comment
+904721977834840065,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+913095248833912838,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+1028848856166019073,0,Merger and acquisition between Cigna and Express Scripts.,Comment
+948257408601567233,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+1041846541512716288,0,Merger and acquisition between CVS Health and Aetna.,Support
+920293310282870784,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+971734805128892416,0,Merger and acquisition between Cigna and Express Scripts.,Support
+971773023329116162,0,Merger and acquisition between Cigna and Express Scripts.,Comment
+928159701350731776,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+943201897586069505,0,Merger and acquisition between CVS Health and Aetna.,Comment
+991321731481722880,0,Merger and acquisition between CVS Health and Aetna.,Comment
+1026793082388455425,0,Merger and acquisition between Cigna and Express Scripts.,Refute
+939250499727085574,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+758168574888448000,0,Merger and acquisition between Aetna and Humana.,Refute
+768827284832788480,0,Merger and acquisition between Aetna and Humana.,Comment
+919962253939449856,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+953285542023544832,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+632278279660044288,0,Merger and acquisition between Aetna and Humana.,Unrelated
+928089693597716480,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+941331765297328129,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+981634270006476802,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+926545381328080897,0,Merger and acquisition between CVS Health and Aetna.,Comment
+1027487732010897409,0,Merger and acquisition between CVS Health and Aetna.,Unrelated
+1139543282357133312,0,Merger and acquisition between Cigna and Express Scripts.,Support
+626437839236935680,0,Merger and acquisition between Aetna and Humana.,Support
+975954196741672960,0,Merger and acquisition between Cigna and Express Scripts.,Comment
+1021805635590148096,0,Merger and acquisition between CVS Health and Aetna.,Unrelated
+716335926138548224,0,Merger and acquisition between Aetna and Humana.,Unrelated
+1028851134604050434,0,Merger and acquisition between Cigna and Express Scripts.,Comment
+624319841478938625,0,Merger and acquisition between Aetna and Humana.,Comment
+897045632325754880,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+844689285689360385,0,Merger and acquisition between Aetna and Humana.,Refute
+976175937179004929,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+839254476485603328,0,Merger and acquisition between Aetna and Humana.,Refute
+908673003143151616,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+986409266121707521,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+929525405412761600,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+1028959876175683584,0,Merger and acquisition between Cigna and Express Scripts.,Support
+811911312490037248,0,Merger and acquisition between Aetna and Humana.,Support
+822495770699927552,0,Merger and acquisition between Aetna and Humana.,Unrelated
+942122240509906944,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+925979050572746752,0,Merger and acquisition between CVS Health and Aetna.,Comment
+925979050572746752,1,Merger and acquisition between CVS Health and Aetna.,Comment
+1050521433179348994,0,Merger and acquisition between CVS Health and Aetna.,Support
+973693674969288706,0,Merger and acquisition between Cigna and Express Scripts.,Unrelated
+956247896600424448,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+806634717520883717,0,Merger and acquisition between Aetna and Humana.,Refute
+942469945111334913,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+971702857194864640,0,Merger and acquisition between Cigna and Express Scripts.,Support
+938461574272077825,0,Merger and acquisition between CVS Health and Aetna.,Comment
+619488778772705280,0,Merger and acquisition between Aetna and Humana.,Refute
+939284000740327424,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+985170848045830145,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+942481025384493056,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+1054909018035154945,0,Merger and acquisition between CVS Health and Aetna.,Unrelated
+1035467016759590912,0,Merger and acquisition between CVS Health and Aetna.,Comment
+1001859283217104896,0,Merger and acquisition between Cigna and Express Scripts.,Comment
+613391466946260992,0,Merger and acquisition between Aetna and Humana.,Unrelated
+1029140552481230849,0,Merger and acquisition between Cigna and Express Scripts.,Comment
+746675830709968896,0,Merger and acquisition between Aetna and Humana.,Comment
+927617871349460998,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+987758313319403520,0,Merger and acquisition between Cigna and Express Scripts.,Refute
+944072920426532864,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+941722889753001984,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+940788127127560193,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+972035424037363712,0,Merger and acquisition between Cigna and Express Scripts.,Support
+894044308202029056,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+806192741101273089,0,Merger and acquisition between Aetna and Humana.,Comment
+963565972996218880,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+970659512985243648,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+970659512985243648,1,Merger and acquisition between Disney and 21st Century Fox.,Comment
+937479068831899648,0,Merger and acquisition between CVS Health and Aetna.,Comment
+936270156015308801,0,Merger and acquisition between CVS Health and Aetna.,Support
+941380555362496514,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+938564019723624448,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+1000813826407837706,0,Merger and acquisition between CVS Health and Aetna.,Support
+949544698389106689,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+1025275106787045376,0,Merger and acquisition between Cigna and Express Scripts.,Refute
+943542514790776833,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+931877190966349824,0,Merger and acquisition between Disney and 21st Century Fox.,Refute
+938019415500525568,0,Merger and acquisition between CVS Health and Aetna.,Support
+940733726715236353,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+860322200095604736,0,Merger and acquisition between Aetna and Humana.,Refute
+895785187178672128,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+895785187178672128,1,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+895785187178672128,2,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+895785187178672128,3,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+973909786805850112,0,Merger and acquisition between CVS Health and Aetna.,Support
+614524828054196224,0,Merger and acquisition between Aetna and Humana.,Comment
+859811042788036609,0,Merger and acquisition between CVS Health and Aetna.,Support
+752876028498804736,0,Merger and acquisition between Aetna and Humana.,Unrelated
+922439885230833664,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+861998210948239361,0,Merger and acquisition between CVS Health and Aetna.,Unrelated
+1007936223632154624,0,Merger and acquisition between CVS Health and Aetna.,Comment
+1052095055039791104,0,Merger and acquisition between CVS Health and Aetna.,Unrelated
+977479068705869824,0,Merger and acquisition between CVS Health and Aetna.,Unrelated
+942484774379229185,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+932654935438655489,0,Merger and acquisition between Disney and 21st Century Fox.,Refute
+932654935438655489,1,Merger and acquisition between Disney and 21st Century Fox.,Refute
+952693169845624832,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+951015665946816512,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+954067147428212736,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+937751586549436419,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+927673247835021313,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+1026800269261078528,0,Merger and acquisition between Cigna and Express Scripts.,Refute
+809078130480738308,0,Merger and acquisition between Aetna and Humana.,Support
+975841469582934016,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+936156093457272833,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+1046856031677165574,0,Merger and acquisition between CVS Health and Aetna.,Support
+735879433253359616,0,Merger and acquisition between Aetna and Humana.,Refute
+948932928872042497,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+976194260625252352,0,Merger and acquisition between Cigna and Express Scripts.,Support
+1161704024380444672,0,Merger and acquisition between Cigna and Express Scripts.,Unrelated
+1022338479093686273,0,Merger and acquisition between CVS Health and Aetna.,Comment
+614052612636299264,0,Merger and acquisition between Aetna and Humana.,Unrelated
+923918086369103872,0,Merger and acquisition between CVS Health and Aetna.,Refute
+974500592432267264,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+950596537066971137,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+930152743666356224,0,Merger and acquisition between CVS Health and Aetna.,Unrelated
+984059755332292608,0,Merger and acquisition between Cigna and Express Scripts.,Unrelated
+1070782331684876289,0,Merger and acquisition between CVS Health and Aetna.,Comment
+1013641927554674688,0,Merger and acquisition between CVS Health and Aetna.,Comment
+961254888125579265,0,Merger and acquisition between Disney and 21st Century Fox.,Refute
+1029789220364140544,0,Merger and acquisition between CVS Health and Aetna.,Unrelated
+972271308519088128,0,Merger and acquisition between Cigna and Express Scripts.,Comment
+937856175776849920,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+1085344008459767813,0,Merger and acquisition between Cigna and Express Scripts.,Unrelated
+1026070086019248135,0,Merger and acquisition between Cigna and Express Scripts.,Refute
+995012689175957506,0,Merger and acquisition between CVS Health and Aetna.,Unrelated
+945294413462409216,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+961732624388706307,0,Merger and acquisition between Disney and 21st Century Fox.,Refute
+923662893995954176,0,Merger and acquisition between CVS Health and Aetna.,Support
+923777968505278469,0,Merger and acquisition between CVS Health and Aetna.,Support
+901891468784275458,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+944253898616958977,0,Merger and acquisition between CVS Health and Aetna.,Comment
+924662565426290688,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+1064883898411302912,0,Merger and acquisition between CVS Health and Aetna.,Support
+984369578393382912,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+939347657163726849,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+938533237986557952,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+1027095719801319424,0,Merger and acquisition between Cigna and Express Scripts.,Unrelated
+1055451049446830080,0,Merger and acquisition between CVS Health and Aetna.,Comment
+908343308065415169,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+970513196690763776,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+937916978194538497,0,Merger and acquisition between CVS Health and Aetna.,Comment
+937916978194538497,1,Merger and acquisition between CVS Health and Aetna.,Comment
+806335195003633664,0,Merger and acquisition between Aetna and Humana.,Comment
+921740883225128960,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+735566757742673923,0,Merger and acquisition between Aetna and Humana.,Refute
+831560436965371904,0,Merger and acquisition between Aetna and Humana.,Refute
+924247889701949443,0,Merger and acquisition between CVS Health and Aetna.,Unrelated
+924247889701949443,1,Merger and acquisition between CVS Health and Aetna.,Unrelated
+960944666437980161,0,Merger and acquisition between Disney and 21st Century Fox.,Refute
+1300816119117369344,0,Merger and acquisition between Cigna and Express Scripts.,Comment
+955335783040389120,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+941663218551984128,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+922859390209638400,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+922859390209638400,1,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+922859390209638400,2,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+1067852387396829184,0,Merger and acquisition between CVS Health and Aetna.,Comment
+1035320016722452480,0,Merger and acquisition between Cigna and Express Scripts.,Support
+923746341758623744,0,Merger and acquisition between CVS Health and Aetna.,Support
+928639116442587136,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+942862682109235208,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+984748313940582401,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+941545878703271936,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+708718619069382660,0,Merger and acquisition between Aetna and Humana.,Unrelated
+938817633163636741,0,Merger and acquisition between CVS Health and Aetna.,Unrelated
+984841593059454976,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+970301275257569280,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+878887455964909568,0,Merger and acquisition between Aetna and Humana.,Unrelated
+884565932353495043,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+944252446955786240,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+826550638007840768,0,Merger and acquisition between Aetna and Humana.,Support
+925899099186057217,0,Merger and acquisition between CVS Health and Aetna.,Comment
+1041828143982669826,0,Merger and acquisition between Cigna and Express Scripts.,Support
+952771859610853376,0,Merger and acquisition between CVS Health and Aetna.,Comment
+938923829262348288,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+926019094528364544,0,Merger and acquisition between CVS Health and Aetna.,Support
+1037077311617683456,0,Merger and acquisition between CVS Health and Aetna.,Comment
+935197584121126912,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+928412401560576000,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+981056891227987968,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+972215632711340033,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+939913881333452800,0,Merger and acquisition between CVS Health and Aetna.,Unrelated
+826448718509535232,0,Merger and acquisition between Aetna and Humana.,Refute
+1048049086212071429,0,Merger and acquisition between CVS Health and Aetna.,Comment
+925719872075530241,0,Merger and acquisition between CVS Health and Aetna.,Unrelated
+958511184856080384,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+823595060142964737,0,Merger and acquisition between Aetna and Humana.,Refute
+971713157533085696,0,Merger and acquisition between Cigna and Express Scripts.,Support
+972449493399453696,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+973340349132259328,0,Merger and acquisition between Cigna and Express Scripts.,Support
+981553998502203392,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+981553998502203392,1,Merger and acquisition between Disney and 21st Century Fox.,Comment
+746396806335107072,0,Merger and acquisition between Aetna and Humana.,Refute
+938778343893331968,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+940978377233645569,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+993530781459992576,0,Merger and acquisition between CVS Health and Aetna.,Unrelated
+953701494955610112,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+614159121198268416,0,Merger and acquisition between Aetna and Humana.,Support
+942530418602999808,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+931658255767568384,0,Merger and acquisition between Disney and 21st Century Fox.,Refute
+928109838978207744,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+888588492598636544,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+921779881851023361,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+897947074863300609,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+1053290765496004608,0,Merger and acquisition between CVS Health and Aetna.,Unrelated
+860216347656990720,0,Merger and acquisition between Aetna and Humana.,Support
+860216347656990720,1,Merger and acquisition between Aetna and Humana.,Support
+860216347656990720,2,Merger and acquisition between Aetna and Humana.,Support
+860216347656990720,3,Merger and acquisition between Aetna and Humana.,Support
+1225574154046464001,0,Merger and acquisition between Cigna and Express Scripts.,Comment
+831706735509331969,0,Merger and acquisition between Aetna and Humana.,Refute
+969446232723636225,0,Merger and acquisition between CVS Health and Aetna.,Unrelated
+786587194836262912,0,Merger and acquisition between Aetna and Humana.,Refute
+1113516662177894404,0,Merger and acquisition between Cigna and Express Scripts.,Unrelated
+803346179832549381,0,Merger and acquisition between Aetna and Humana.,Unrelated
+877561077524905984,0,Merger and acquisition between CVS Health and Aetna.,Unrelated
+986975203887468544,0,Merger and acquisition between Cigna and Express Scripts.,Refute
+1059173438106013696,0,Merger and acquisition between CVS Health and Aetna.,Unrelated
+941305019613184002,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+1055156761676734464,0,Merger and acquisition between CVS Health and Aetna.,Comment
+940615316014592002,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+940903747676508161,0,Merger and acquisition between CVS Health and Aetna.,Comment
+927629859634929664,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+987847202843385858,0,Merger and acquisition between CVS Health and Aetna.,Unrelated
+928618973058551808,0,Merger and acquisition between Disney and 21st Century Fox.,Refute
+983087880452046850,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+983087880452046850,1,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+974372236483334144,0,Merger and acquisition between Cigna and Express Scripts.,Comment
+892884158086860800,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+1068146913235648513,0,Merger and acquisition between CVS Health and Aetna.,Comment
+745682563566534656,0,Merger and acquisition between Aetna and Humana.,Support
+960742477702443009,0,Merger and acquisition between Disney and 21st Century Fox.,Refute
+948888316165881856,0,Merger and acquisition between CVS Health and Aetna.,Comment
+1059897205031559168,0,Merger and acquisition between CVS Health and Aetna.,Support
+831257895601741824,0,Merger and acquisition between Aetna and Humana.,Refute
+832679367767568384,0,Merger and acquisition between Aetna and Humana.,Refute
+933751590019727360,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+969612590463750144,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+936137727271145472,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+958000211644862465,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+961614345363951616,0,Merger and acquisition between Disney and 21st Century Fox.,Refute
+952065244502855680,0,Merger and acquisition between CVS Health and Aetna.,Comment
+942529984849219584,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+885793822550237185,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+964644663473856512,0,Merger and acquisition between CVS Health and Aetna.,Comment
+984958053522067457,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+955132478297133056,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+1050382580221177857,0,Merger and acquisition between CVS Health and Aetna.,Comment
+928043389421019137,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+940349775597072384,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+986733728033624064,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+1026874649425063936,0,Merger and acquisition between Cigna and Express Scripts.,Refute
+978404556022325249,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+943269718567239680,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+942283217016709120,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+1294771808672120832,0,Merger and acquisition between Cigna and Express Scripts.,Comment
+927617036188078080,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+826018373641371648,0,Merger and acquisition between Aetna and Humana.,Support
+905100783363993601,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+949435202857816065,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+952284177533108224,0,Merger and acquisition between CVS Health and Aetna.,Comment
+941608867775033344,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+944165633889095681,0,Merger and acquisition between CVS Health and Aetna.,Support
+937700776826286080,0,Merger and acquisition between CVS Health and Aetna.,Support
+879641250386804739,0,Merger and acquisition between CVS Health and Aetna.,Unrelated
+942877606021513216,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+963794983806488576,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+961111532112359426,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+928140266359230466,0,Merger and acquisition between CVS Health and Aetna.,Comment
+996789360233275393,0,Merger and acquisition between Cigna and Express Scripts.,Unrelated
+940587040940445696,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+938864466372022272,0,Merger and acquisition between CVS Health and Aetna.,Comment
+927909200944132096,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+888004912730263552,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+966790031959609346,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+981129684959277056,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+941395049333616643,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+943539107401162754,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+937071243379044353,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+938801624440561664,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+725387984581713920,0,Merger and acquisition between Aetna and Humana.,Comment
+1042150449216933888,0,Merger and acquisition between Cigna and Express Scripts.,Comment
+626374434941763584,0,Merger and acquisition between Aetna and Humana.,Comment
+989444983211077633,0,Merger and acquisition between CVS Health and Aetna.,Support
+929790919901147143,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+976723878390255616,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+943209600412610560,0,Merger and acquisition between CVS Health and Aetna.,Comment
+941436148752306176,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+940346582737625089,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+1012562567968018433,0,Merger and acquisition between CVS Health and Aetna.,Comment
+930704949750706176,0,Merger and acquisition between CVS Health and Aetna.,Unrelated
+929454945941819392,0,Merger and acquisition between CVS Health and Aetna.,Comment
+940335001320804352,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+936572801129025542,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+972494840297648128,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+979311781863739394,0,Merger and acquisition between CVS Health and Aetna.,Unrelated
+973250655799447554,0,Merger and acquisition between Cigna and Express Scripts.,Comment
+1046791868779044864,0,Merger and acquisition between CVS Health and Aetna.,Support
+927969753037201409,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+1075830669895524352,0,Merger and acquisition between Cigna and Express Scripts.,Support
+1050400438049222656,0,Merger and acquisition between CVS Health and Aetna.,Comment
+944949817704435712,0,Merger and acquisition between Disney and 21st Century Fox.,Refute
+1042923149841575936,0,Merger and acquisition between CVS Health and Aetna.,Unrelated
+944206011669368834,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+1024739828032724992,0,Merger and acquisition between Cigna and Express Scripts.,Refute
+965480570418417664,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+541302353744248833,0,Merger and acquisition between Aetna and Humana.,Unrelated
+953019989178580993,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+955456037015834624,0,Merger and acquisition between Cigna and Express Scripts.,Unrelated
+953990297133993984,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+937736693242875904,0,Merger and acquisition between CVS Health and Aetna.,Unrelated
+981694172385153024,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+693122811272024064,0,Merger and acquisition between Aetna and Humana.,Comment
+977238219023699969,0,Merger and acquisition between CVS Health and Aetna.,Unrelated
+918554969720094730,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+1039582013181882371,0,Merger and acquisition between CVS Health and Aetna.,Comment
+1027149196909010944,0,Merger and acquisition between Cigna and Express Scripts.,Comment
+823903623906201600,0,Merger and acquisition between Aetna and Humana.,Refute
+1067719842608934912,0,Merger and acquisition between CVS Health and Aetna.,Support
+1070026767283511299,0,Merger and acquisition between CVS Health and Aetna.,Refute
+939152270075162624,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+922993189576851456,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+1025043653960654849,0,Merger and acquisition between Cigna and Express Scripts.,Comment
+715587439717273600,0,Merger and acquisition between Aetna and Humana.,Comment
+932957642263326723,0,Merger and acquisition between CVS Health and Aetna.,Unrelated
+959224850664472576,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+925701238104014848,0,Merger and acquisition between CVS Health and Aetna.,Support
+939167442688925696,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+941445150911365120,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+923731332991242240,0,Merger and acquisition between CVS Health and Aetna.,Support
+973144297636749312,0,Merger and acquisition between Cigna and Express Scripts.,Support
+939513061349535744,0,Merger and acquisition between CVS Health and Aetna.,Comment
+928060783082192897,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+943497566754410501,0,Merger and acquisition between CVS Health and Aetna.,Comment
+960664527229644801,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+938423695793459201,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+912694768454504448,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+937695743359451136,0,Merger and acquisition between CVS Health and Aetna.,Comment
+948664825403584512,0,Merger and acquisition between CVS Health and Aetna.,Comment
+1033008458809761795,0,Merger and acquisition between Cigna and Express Scripts.,Support
+973634491930628096,0,Merger and acquisition between CVS Health and Aetna.,Support
+860337923715104768,0,Merger and acquisition between Aetna and Humana.,Unrelated
+860337923715104768,1,Merger and acquisition between Aetna and Humana.,Unrelated
+972913981991063553,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+831558380577648640,0,Merger and acquisition between Aetna and Humana.,Refute
+938117082985697287,0,Merger and acquisition between CVS Health and Aetna.,Comment
+986684542609047552,0,Merger and acquisition between Cigna and Express Scripts.,Unrelated
+938336975312097281,0,Merger and acquisition between CVS Health and Aetna.,Unrelated
+938556543557087233,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+1036579294481395712,0,Merger and acquisition between Cigna and Express Scripts.,Unrelated
+656350187858894848,0,Merger and acquisition between Aetna and Humana.,Unrelated
+824399473451368448,0,Merger and acquisition between Aetna and Humana.,Refute
+1046448098011226112,0,Merger and acquisition between CVS Health and Aetna.,Support
+937466454957584384,0,Merger and acquisition between CVS Health and Aetna.,Support
+1041814319556517889,0,Merger and acquisition between Cigna and Express Scripts.,Support
+944020916983365634,0,Merger and acquisition between CVS Health and Aetna.,Comment
+938528519407185925,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+914145836166135813,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+933100311144644610,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+937658660137906176,0,Merger and acquisition between CVS Health and Aetna.,Comment
+927629596912242688,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+1029168499812261888,0,Merger and acquisition between Cigna and Express Scripts.,Support
+953060904496746496,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+942386436606701568,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+949387535620497408,0,Merger and acquisition between CVS Health and Aetna.,Comment
+981773053234417664,0,Merger and acquisition between Cigna and Express Scripts.,Comment
+971308742145867777,0,Merger and acquisition between Disney and 21st Century Fox.,Refute
+925496124110024705,0,Merger and acquisition between CVS Health and Aetna.,Support
+1028898989129773061,0,Merger and acquisition between Cigna and Express Scripts.,Refute
+755493592521707520,0,Merger and acquisition between Aetna and Humana.,Unrelated
+959458270325899264,0,Merger and acquisition between CVS Health and Aetna.,Comment
+964758869376253952,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+917903137821937664,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+1044240190326353925,0,Merger and acquisition between CVS Health and Aetna.,Comment
+938141140758552576,0,Merger and acquisition between CVS Health and Aetna.,Comment
+939685043034714112,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+920983037671890944,0,Merger and acquisition between Cigna and Express Scripts.,Unrelated
+942088241301336064,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+846400671821762560,0,Merger and acquisition between Cigna and Express Scripts.,Unrelated
+1056938961116020743,0,Merger and acquisition between CVS Health and Aetna.,Comment
+938117838287630336,0,Merger and acquisition between CVS Health and Aetna.,Comment
+948334579294892032,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+941686825852293121,0,Merger and acquisition between CVS Health and Aetna.,Comment
+928393944840388609,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+933543424766218242,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+887387617196732416,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+887387617196732416,1,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+887387617196732416,2,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+974645742496296961,0,Merger and acquisition between Cigna and Express Scripts.,Comment
+940955108413554688,0,Merger and acquisition between CVS Health and Aetna.,Comment
+923708597493669889,0,Merger and acquisition between CVS Health and Aetna.,Support
+1070018718594449408,0,Merger and acquisition between CVS Health and Aetna.,Support
+711682791705075712,0,Merger and acquisition between Aetna and Humana.,Unrelated
+935967168600080384,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+963612579250651137,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+1065809720869572608,0,Merger and acquisition between CVS Health and Aetna.,Support
+1038142943410962432,0,Merger and acquisition between Cigna and Express Scripts.,Support
+936687417091809280,0,Merger and acquisition between CVS Health and Aetna.,Support
+614583949390708736,0,Merger and acquisition between Aetna and Humana.,Support
+950022470790275073,0,Merger and acquisition between CVS Health and Aetna.,Comment
+937889280546037760,0,Merger and acquisition between CVS Health and Aetna.,Comment
+992107773922918401,0,Merger and acquisition between CVS Health and Aetna.,Support
+945426261534564352,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+1074265436332662784,0,Merger and acquisition between Cigna and Express Scripts.,Support
+942982650939129856,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+971870040915103744,0,Merger and acquisition between Cigna and Express Scripts.,Support
+993795389647151105,0,Merger and acquisition between CVS Health and Aetna.,Support
+1027981192560144384,0,Merger and acquisition between Cigna and Express Scripts.,Support
+937986917429317632,0,Merger and acquisition between CVS Health and Aetna.,Comment
+825009782318788608,0,Merger and acquisition between Aetna and Humana.,Refute
+1050209435895963649,0,Merger and acquisition between CVS Health and Aetna.,Support
+823962874628440064,0,Merger and acquisition between Aetna and Humana.,Comment
+973890878581460993,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+954357839086194689,0,Merger and acquisition between CVS Health and Aetna.,Refute
+939177848954392576,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+1010843556150501376,0,Merger and acquisition between CVS Health and Aetna.,Unrelated
+937757890668122112,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+939991147426050048,0,Merger and acquisition between CVS Health and Aetna.,Comment
+928853489526231041,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+736029578947362816,0,Merger and acquisition between Aetna and Humana.,Comment
+974818890638348289,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+937674435095646209,0,Merger and acquisition between CVS Health and Aetna.,Support
+943492239803781121,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+953005388818976769,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+1026816478203371520,0,Merger and acquisition between Cigna and Express Scripts.,Refute
+937453922700193792,0,Merger and acquisition between CVS Health and Aetna.,Support
+927867224542662661,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+981124160058359811,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+991694857533116416,0,Merger and acquisition between CVS Health and Aetna.,Comment
+942366553496047616,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+938376394777690113,0,Merger and acquisition between CVS Health and Aetna.,Unrelated
+944092459776163840,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+1069275262175649793,0,Merger and acquisition between CVS Health and Aetna.,Support
+943162836322213889,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+980831182161088512,0,Merger and acquisition between Cigna and Express Scripts.,Comment
+893451501972148228,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+942108164278902789,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+889334388298846208,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+1033030780480569344,0,Merger and acquisition between Cigna and Express Scripts.,Support
+940144192579424256,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+831493554027556864,0,Merger and acquisition between Aetna and Humana.,Refute
+1084014017218174978,0,Merger and acquisition between Cigna and Express Scripts.,Unrelated
+907593256736784384,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+907593256736784384,1,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+907593256736784384,2,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+832220171196575744,0,Merger and acquisition between Aetna and Humana.,Unrelated
+1000797743382777858,0,Merger and acquisition between Cigna and Express Scripts.,Comment
+1000797743382777858,0,Merger and acquisition between CVS Health and Aetna.,Comment
+1030908949011333125,0,Merger and acquisition between Cigna and Express Scripts.,Support
+1050539053513404416,0,Merger and acquisition between CVS Health and Aetna.,Support
+944299079349293057,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+943637637063172097,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+928400224795709440,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+947504763435921408,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+947504763435921408,1,Merger and acquisition between Disney and 21st Century Fox.,Comment
+941820337796268033,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+1068913390683336705,0,Merger and acquisition between CVS Health and Aetna.,Comment
+941507955970715649,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+942495384882040833,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+916892173848793088,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+765984193696374788,0,Merger and acquisition between Aetna and Humana.,Unrelated
+697899187396964352,0,Merger and acquisition between Aetna and Humana.,Support
+923648475048366080,0,Merger and acquisition between CVS Health and Aetna.,Support
+957380000201822209,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+941929638435131392,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+938124329371492354,0,Merger and acquisition between CVS Health and Aetna.,Support
+1219061634947330048,0,Merger and acquisition between Cigna and Express Scripts.,Unrelated
+974315379865587712,0,Merger and acquisition between Cigna and Express Scripts.,Comment
+909881145998921728,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+953020221782183937,0,Merger and acquisition between CVS Health and Aetna.,Unrelated
+1068680329517424641,0,Merger and acquisition between CVS Health and Aetna.,Support
+856831278217396225,0,Merger and acquisition between CVS Health and Aetna.,Unrelated
+944687732995043328,0,Merger and acquisition between CVS Health and Aetna.,Support
+946522771848298497,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+939849093530169344,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+942917195897679872,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+962612717201907712,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+1014730602027864064,0,Merger and acquisition between CVS Health and Aetna.,Comment
+1029337212473827330,0,Merger and acquisition between Cigna and Express Scripts.,Unrelated
+976720766086647808,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+949892085246767104,0,Merger and acquisition between CVS Health and Aetna.,Comment
+937088510325960704,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+1067657362880659456,0,Merger and acquisition between Cigna and Express Scripts.,Support
+946193206198308865,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+995300835352510466,0,Merger and acquisition between CVS Health and Aetna.,Refute
+959947991640457216,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+937361129285783552,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+937798186105683968,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+941337957826428928,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+956537769869873152,0,Merger and acquisition between CVS Health and Aetna.,Support
+960577998440353797,0,Merger and acquisition between CVS Health and Aetna.,Unrelated
+937658479296303106,0,Merger and acquisition between CVS Health and Aetna.,Unrelated
+929452940707926018,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+1319344658921607168,0,Merger and acquisition between Cigna and Express Scripts.,Unrelated
+913443472350224384,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+971609457770680320,0,Merger and acquisition between Cigna and Express Scripts.,Unrelated
+973566951338532864,0,Merger and acquisition between Cigna and Express Scripts.,Comment
+937478082847322113,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+1042112844135837697,0,Merger and acquisition between CVS Health and Aetna.,Comment
+924922341145976832,0,Merger and acquisition between CVS Health and Aetna.,Unrelated
+962733462846402562,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+927627778043924480,0,Merger and acquisition between CVS Health and Aetna.,Support
+925356295489761280,0,Merger and acquisition between CVS Health and Aetna.,Comment
+925356295489761280,1,Merger and acquisition between CVS Health and Aetna.,Comment
+973122146133250048,0,Merger and acquisition between Cigna and Express Scripts.,Comment
+991657171648700416,0,Merger and acquisition between CVS Health and Aetna.,Support
+949102666512306178,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+938816251937415169,0,Merger and acquisition between CVS Health and Aetna.,Comment
+1006860061128515584,0,Merger and acquisition between Cigna and Express Scripts.,Comment
+940651091481460737,0,Merger and acquisition between CVS Health and Aetna.,Support
+991912225823711232,0,Merger and acquisition between CVS Health and Aetna.,Support
+959061344912732160,0,Merger and acquisition between CVS Health and Aetna.,Comment
+963848731924877312,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+931688699519045632,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+927289678616809472,0,Merger and acquisition between CVS Health and Aetna.,Support
+923659031733923840,0,Merger and acquisition between CVS Health and Aetna.,Support
+977883811022123008,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+1058086839066783745,0,Merger and acquisition between CVS Health and Aetna.,Support
+942799141406732288,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+992052660470562816,0,Merger and acquisition between Cigna and Express Scripts.,Comment
+1001828045353816064,0,Merger and acquisition between Cigna and Express Scripts.,Refute
+962580968359038976,0,Merger and acquisition between CVS Health and Aetna.,Support
+916967667688284160,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+940935608507289601,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+961955223609708544,0,Merger and acquisition between CVS Health and Aetna.,Comment
+942725822309392385,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+930882193311846402,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+941050154307682307,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+823574911012765696,0,Merger and acquisition between Aetna and Humana.,Refute
+1048194693799071744,0,Merger and acquisition between CVS Health and Aetna.,Unrelated
+1068039137704493056,0,Merger and acquisition between CVS Health and Aetna.,Support
+925586471804735488,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+972523245885734912,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+941061812920963072,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+969018649766920192,0,Merger and acquisition between CVS Health and Aetna.,Comment
+940620225594175488,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+957282347648454657,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+1054744013486673920,0,Merger and acquisition between CVS Health and Aetna.,Support
+810582558077394945,0,Merger and acquisition between Aetna and Humana.,Refute
+928453349099180032,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+958738546550026241,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+1017852841577385986,0,Merger and acquisition between Cigna and Express Scripts.,Unrelated
+984427543901233154,0,Merger and acquisition between CVS Health and Aetna.,Unrelated
+941555963169034241,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+978589714210017282,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+905921720225210369,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+949760925195698176,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+917738049387327488,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+945877137147523072,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+945877137147523072,1,Merger and acquisition between Disney and 21st Century Fox.,Comment
+945877137147523072,2,Merger and acquisition between Disney and 21st Century Fox.,Comment
+945877137147523072,3,Merger and acquisition between Disney and 21st Century Fox.,Comment
+971714259678842880,0,Merger and acquisition between Cigna and Express Scripts.,Support
+972153289495142400,0,Merger and acquisition between Cigna and Express Scripts.,Comment
+945564845348401152,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+1030246586742394881,0,Merger and acquisition between Cigna and Express Scripts.,Comment
+813363120919822336,0,Merger and acquisition between Aetna and Humana.,Comment
+962381364162154496,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+1068161054130221062,0,Merger and acquisition between CVS Health and Aetna.,Comment
+927613469377159169,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+937768966063345664,0,Merger and acquisition between CVS Health and Aetna.,Comment
+1012351230436413440,0,Merger and acquisition between CVS Health and Aetna.,Unrelated
+840011744810528770,0,Merger and acquisition between Aetna and Humana.,Refute
+840011744810528770,1,Merger and acquisition between Aetna and Humana.,Refute
+937667282284752896,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+973083702917062656,0,Merger and acquisition between Cigna and Express Scripts.,Support
+912571852589080576,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+893386538305847296,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+844360779759603712,0,Merger and acquisition between Aetna and Humana.,Refute
+969212114513645569,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+885098160837636096,0,Merger and acquisition between Cigna and Express Scripts.,Unrelated
+896681812566716416,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+928140191361093633,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+942250557841997824,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+1029232911277383681,0,Merger and acquisition between Cigna and Express Scripts.,Support
+938289162490466304,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+1068671073565200384,0,Merger and acquisition between Cigna and Express Scripts.,Support
+941341009245433856,0,Merger and acquisition between CVS Health and Aetna.,Comment
+973363013213339648,0,Merger and acquisition between Cigna and Express Scripts.,Comment
+939374102267289600,0,Merger and acquisition between CVS Health and Aetna.,Comment
+948447337269018624,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+938558701585145856,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+937702320564985856,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+1215014741531336705,0,Merger and acquisition between Cigna and Express Scripts.,Unrelated
+940928584201449472,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+923923504558428160,0,Merger and acquisition between CVS Health and Aetna.,Comment
+938197213804617729,0,Merger and acquisition between CVS Health and Aetna.,Comment
+971758871210528774,0,Merger and acquisition between Cigna and Express Scripts.,Support
+941842819618148352,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+701846735308468224,0,Merger and acquisition between Aetna and Humana.,Unrelated
+976454658154795008,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+972939179444391936,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+701773583069159424,0,Merger and acquisition between Aetna and Humana.,Unrelated
+951915707154841601,0,Merger and acquisition between CVS Health and Aetna.,Comment
+619612152521818112,0,Merger and acquisition between Aetna and Humana.,Comment
+832061105514110977,0,Merger and acquisition between Aetna and Humana.,Support
+942159906978828288,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+841714424427794432,0,Merger and acquisition between CVS Health and Aetna.,Unrelated
+942993420536111104,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+886654900482002944,0,Merger and acquisition between CVS Health and Aetna.,Unrelated
+950411816483610624,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+970047859079880704,0,Merger and acquisition between Disney and 21st Century Fox.,Refute
+1031417802056331265,0,Merger and acquisition between Cigna and Express Scripts.,Support
+963043848229400578,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+924063945606025221,0,Merger and acquisition between CVS Health and Aetna.,Comment
+928728163781365761,0,Merger and acquisition between CVS Health and Aetna.,Comment
+941905729438367744,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+1017989827462094848,0,Merger and acquisition between CVS Health and Aetna.,Comment
+941458177572216832,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+931205523294314496,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+976819760515174402,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+973294179035033600,0,Merger and acquisition between Cigna and Express Scripts.,Comment
+801778319247163392,0,Merger and acquisition between Aetna and Humana.,Unrelated
+801778319247163392,1,Merger and acquisition between Aetna and Humana.,Unrelated
+755527859905654785,0,Merger and acquisition between Aetna and Humana.,Refute
+940657097636794371,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+938083688067219456,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+944991149873401856,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+941352851661606912,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+941352851661606912,1,Merger and acquisition between Disney and 21st Century Fox.,Comment
+941352851661606912,2,Merger and acquisition between Disney and 21st Century Fox.,Comment
+938811173100699648,0,Merger and acquisition between CVS Health and Aetna.,Comment
+891759624587816961,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+958792007698153472,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+911898206275022848,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+941013484212555776,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+956172352974479360,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+889508020778127363,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+1020109799143411718,0,Merger and acquisition between CVS Health and Aetna.,Unrelated
+1060170004270931968,0,Merger and acquisition between CVS Health and Aetna.,Comment
+966284402341789696,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+966284402341789696,1,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+966284402341789696,2,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+966284402341789696,3,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+941853608412418048,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+943487322812833792,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+961917912167612417,0,Merger and acquisition between CVS Health and Aetna.,Support
+941327704758145024,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+940713205931880448,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+972098848553398273,0,Merger and acquisition between Cigna and Express Scripts.,Refute
+949395516810555392,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+904545908167122944,0,Merger and acquisition between CVS Health and Aetna.,Unrelated
+1051140507504664576,0,Merger and acquisition between CVS Health and Aetna.,Support
+781818377509756928,0,Merger and acquisition between Aetna and Humana.,Unrelated
+929568187644964864,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+636180529738596352,0,Merger and acquisition between Aetna and Humana.,Comment
+845382219342499841,0,Merger and acquisition between Aetna and Humana.,Unrelated
+921463177451331585,0,Merger and acquisition between CVS Health and Aetna.,Unrelated
+944917584390049792,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+937820006997426177,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+961454542662578181,0,Merger and acquisition between Disney and 21st Century Fox.,Refute
+941786169410498560,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+939283098696548353,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+963206641964462082,0,Merger and acquisition between Disney and 21st Century Fox.,Refute
+829342614105124864,0,Merger and acquisition between Aetna and Humana.,Refute
+973504176977309699,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+972526734624030720,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+942041649471016960,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+617903693115977728,0,Merger and acquisition between Aetna and Humana.,Support
+968809356522328064,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+1029349104143544321,0,Merger and acquisition between Cigna and Express Scripts.,Comment
+942873418755485697,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+760487075875549184,0,Merger and acquisition between Aetna and Humana.,Comment
+1052309719837224960,0,Merger and acquisition between CVS Health and Aetna.,Support
+860197117851295744,0,Merger and acquisition between Aetna and Humana.,Support
+956316958751903744,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+713506002902102017,0,Merger and acquisition between Aetna and Humana.,Comment
+928275415352954880,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+735546730444402692,0,Merger and acquisition between Aetna and Humana.,Unrelated
+751421179915886592,0,Merger and acquisition between Aetna and Humana.,Unrelated
+1026814983378620416,0,Merger and acquisition between Cigna and Express Scripts.,Refute
+968538589356281856,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+982852478034161665,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+941453755370831873,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+824317289713569792,0,Merger and acquisition between Aetna and Humana.,Comment
+1076147784733024256,0,Merger and acquisition between Cigna and Express Scripts.,Support
+940604666567524353,0,Merger and acquisition between CVS Health and Aetna.,Comment
+937401802219315200,0,Merger and acquisition between CVS Health and Aetna.,Support
+653963518438305793,0,Merger and acquisition between Aetna and Humana.,Comment
+934543226383618054,0,Merger and acquisition between CVS Health and Aetna.,Comment
+938557344392155136,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+953380218072219648,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+931556403839426560,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+556972833952518144,0,Merger and acquisition between Aetna and Humana.,Unrelated
+1009077853101744128,0,Merger and acquisition between Cigna and Express Scripts.,Comment
+936659406045024256,0,Merger and acquisition between CVS Health and Aetna.,Comment
+951723349255774208,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+863065992301334529,0,Merger and acquisition between Aetna and Humana.,Unrelated
+1037717204811309056,0,Merger and acquisition between CVS Health and Aetna.,Support
+742921337438605313,0,Merger and acquisition between Aetna and Humana.,Unrelated
+943872501679083521,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+972139233690423296,0,Merger and acquisition between Cigna and Express Scripts.,Comment
+941873646921850881,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+1336375169892409352,0,Merger and acquisition between Cigna and Express Scripts.,Unrelated
+935690037227851776,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+954857572061851648,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+927989550651019264,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+1069311616460705792,0,Merger and acquisition between CVS Health and Aetna.,Support
+965323164451565568,0,Merger and acquisition between Disney and 21st Century Fox.,Refute
+933328971793666048,0,Merger and acquisition between CVS Health and Aetna.,Support
+974665180813709312,0,Merger and acquisition between Cigna and Express Scripts.,Unrelated
+874264835961348096,0,Merger and acquisition between Aetna and Humana.,Unrelated
+975035550515183619,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+941376012797038593,0,Merger and acquisition between CVS Health and Aetna.,Comment
+778681458885926912,0,Merger and acquisition between Aetna and Humana.,Comment
+950430762800578560,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+963016337709649920,0,Merger and acquisition between CVS Health and Aetna.,Support
+963102507676372993,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+938836517501521920,0,Merger and acquisition between CVS Health and Aetna.,Support
+752903441274593280,0,Merger and acquisition between Aetna and Humana.,Comment
+927623022592385024,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+956328270571737089,0,Merger and acquisition between CVS Health and Aetna.,Comment
+981062706278133760,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+973837085516992512,0,Merger and acquisition between CVS Health and Aetna.,Support
+912725680726663168,0,Merger and acquisition between CVS Health and Aetna.,Unrelated
+1019977691724951553,0,Merger and acquisition between CVS Health and Aetna.,Unrelated
+908329771809083393,0,Merger and acquisition between CVS Health and Aetna.,Unrelated
+971801306280136704,0,Merger and acquisition between Cigna and Express Scripts.,Comment
+938525212886183936,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+950439188213764096,0,Merger and acquisition between CVS Health and Aetna.,Comment
+913349682319040512,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+913349682319040512,1,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+961002152675201031,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+752610309337145345,0,Merger and acquisition between Aetna and Humana.,Comment
+752610309337145345,1,Merger and acquisition between Aetna and Humana.,Comment
+939902543836205057,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+946113268678057986,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+938529757393715201,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+971866708557283328,0,Merger and acquisition between Cigna and Express Scripts.,Unrelated
+670270876630319104,0,Merger and acquisition between Aetna and Humana.,Unrelated
+939295314967744512,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+939266144896106497,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+929138131017768961,0,Merger and acquisition between Disney and 21st Century Fox.,Support
+941522278273208322,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+1067439308309581824,0,Merger and acquisition between CVS Health and Aetna.,Support
+925036193821143042,0,Merger and acquisition between CVS Health and Aetna.,Comment
+656822930869874690,0,Merger and acquisition between Aetna and Humana.,Support
+966786722905317376,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+955865925680541697,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+971748438839844864,0,Merger and acquisition between Cigna and Express Scripts.,Support
+996449938195341315,0,Merger and acquisition between CVS Health and Aetna.,Comment
+939498625918558210,0,Merger and acquisition between CVS Health and Aetna.,Comment
+985904097948848129,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+817793430713696257,0,Merger and acquisition between Aetna and Humana.,Comment
+938148473173626880,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+984606269943230464,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+970638326175760384,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+898276860575981568,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+972565315484762112,0,Merger and acquisition between Cigna and Express Scripts.,Comment
+745985419637047296,0,Merger and acquisition between Aetna and Humana.,Comment
+905876975692152833,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+884408170415886336,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+854998280996040704,0,Merger and acquisition between CVS Health and Aetna.,Unrelated
+923700903273574400,0,Merger and acquisition between CVS Health and Aetna.,Support
+1024761549137829888,0,Merger and acquisition between Cigna and Express Scripts.,Refute
+932725216236650496,0,Merger and acquisition between CVS Health and Aetna.,Support
+1037416008586153986,0,Merger and acquisition between Cigna and Express Scripts.,Support
+1037416008586153986,0,Merger and acquisition between CVS Health and Aetna.,Support
+941218988335534081,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+832689317512253443,0,Merger and acquisition between Aetna and Humana.,Refute
+910458782731444224,0,Merger and acquisition between Cigna and Express Scripts.,Unrelated
+895055063705677824,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+895055063705677824,1,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+825012221159706625,0,Merger and acquisition between Aetna and Humana.,Refute
+831971723453071360,0,Merger and acquisition between Aetna and Humana.,Refute
+959191943229173767,0,Merger and acquisition between CVS Health and Aetna.,Comment
+982475081602469889,0,Merger and acquisition between Disney and 21st Century Fox.,Unrelated
+1059841714981085185,0,Merger and acquisition between CVS Health and Aetna.,Support
+941454617312772096,0,Merger and acquisition between Disney and 21st Century Fox.,Comment
+580383670508216320,0,Merger and acquisition between Aetna and Humana.,Unrelated

@@ -1,0 +1,115 @@
+train_config:
+
+  in_target_train_config:
+    train_times: 
+      value: 5
+
+    num_epochs: 
+      value: 15
+    batch_size: 
+      value: 64
+
+    warmup_ratio:
+      values: [0.2, 0.1, 0]
+    transformer_learning_rate:
+      values: [1.0e-5, 5.0e-6, 1.0e-6]
+    linear_learning_rate:
+      values: [1.0e-3, 1.0e-4, 1.0e-5]
+    weight_decay:
+      values: [1.0e-3, 1.0e-4, 1.0e-5, 1.0e-2]
+
+    if_split_hash_tag:
+      value: False
+    linear_injection:
+      values: [512, -1, 300]
+
+  zero_shot_train_config:
+    train_times: 
+      value: 5
+
+    num_epochs: 
+      value: 5
+    batch_size: 
+      value: 64
+
+    warmup_ratio:
+      values: [0.2, 0.1, 0]
+    transformer_learning_rate:
+      values: [1.0e-6, 5.0e-6, 1.0e-5]
+    linear_learning_rate:
+      values: [1.0e-5, 1.0e-4, 1.0e-3]
+    weight_decay:
+      values: [1.0e-4, 1.0e-3, 1.0e-5, 1.0e-2]
+
+    if_split_hash_tag:
+      value: False
+    linear_injection:
+      values: [-1, 512, 300]
+
+# <========================Bert Model Config========================>
+
+model_config:
+  # ----------------------------------------------------------------
+  bert_vit:
+    label_size:
+      value: Null
+    textual_transformer_tokenizer_name:
+      value: model_state/bert-base-uncased
+    textual_transformer_name:
+      value: model_state/bert-base-uncased
+    max_tokenization_length:
+      value: 256
+    visual_transformer_tokenizer_name:
+      value: model_state/google/vit-base-patch16-224
+    visual_transformer_name:
+      value: model_state/google/vit-base-patch16-224
+
+  roberta_vit:
+    label_size:
+      value: Null
+    textual_transformer_tokenizer_name:
+      value: model_state/roberta-base
+    textual_transformer_name:
+      value: model_state/roberta-base
+    max_tokenization_length:
+      value: 256
+    visual_transformer_tokenizer_name:
+      value: model_state/google/vit-base-patch16-224
+    visual_transformer_name:
+      value: model_state/google/vit-base-patch16-224
+
+  kebert_vit:
+    label_size:
+      value: Null
+    textual_transformer_tokenizer_name:
+      value: model_state/kornosk/polibertweet-political-twitter-roberta-mlm
+    textual_transformer_name:
+      value: model_state/kornosk/polibertweet-political-twitter-roberta-mlm
+    max_tokenization_length:
+      value: 128
+    visual_transformer_tokenizer_name:
+      value: model_state/google/vit-base-patch16-224
+    visual_transformer_name:
+      value: model_state/google/vit-base-patch16-224
+
+  # ----------------------------------------------------------------
+  clip:
+    label_size:
+      value: Null
+    multimodal_model_name:
+      value: model_state/openai/clip-vit-base-patch32
+    multimodal_processor_name:
+      value: model_state/openai/clip-vit-base-patch32
+    max_tokenization_length:
+      value: 77
+
+  # ----------------------------------------------------------------
+  vilt:
+    label_size:
+      value: Null
+    multimodal_model_name:
+      value: model_state/dandelin/vilt-b32-mlm
+    multimodal_processor_name:
+      value: model_state/dandelin/vilt-b32-mlm
+    max_tokenization_length:
+      value: 40

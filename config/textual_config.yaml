@@ -1,0 +1,105 @@
+train_config:
+
+  in_target_train_config:
+    train_times: 
+      value: 5
+
+    num_epochs: 
+      value: 15
+    batch_size: 
+      value: 64
+
+    warmup_ratio:
+      values: [0.2, 0.1, 0]
+    transformer_learning_rate:
+      values: [1.0e-5, 5.0e-6, 1.0e-6]
+    linear_learning_rate:
+      values: [1.0e-3, 1.0e-4, 1.0e-5]
+    weight_decay:
+      values: [1.0e-3, 1.0e-4, 1.0e-5, 1.0e-2]
+
+    if_split_hash_tag:
+      value: False
+    linear_injection:
+      values: [512, -1, 300]
+
+  zero_shot_train_config:
+    train_times: 
+      value: 5
+
+    num_epochs: 
+      value: 5
+    batch_size: 
+      value: 64
+
+    warmup_ratio:
+      values: [0.2, 0.1, 0]
+    transformer_learning_rate:
+      values: [1.0e-5, 5.0e-6, 1.0e-6]
+    linear_learning_rate:
+      values: [1.0e-5, 1.0e-4, 1.0e-3]
+    weight_decay:
+      values: [1.0e-5, 1.0e-3, 1.0e-4, 1.0e-2]
+
+    if_split_hash_tag:
+      value: False
+    linear_injection:
+      values: [300, 512, -1]
+
+# <========================Bert Model Config========================>
+
+model_config:
+  # ----------------------------------------------------------------
+  bert_base:
+    label_size:
+      value: Null
+    max_tokenization_length: 
+      value: 512
+    transformer_tokenizer_name:
+      value: model_state/bert-base-uncased
+    transformer_name:
+      value: model_state/bert-base-uncased
+
+  # ----------------------------------------------------------------
+  roberta_base:
+    label_size:
+      value: Null
+    max_tokenization_length: 
+      value: 512
+    transformer_tokenizer_name:
+      value: model_state/roberta-base
+    transformer_name:
+      value: model_state/roberta-base
+
+  # ----------------------------------------------------------------  
+  bertweet_base:
+    label_size: 
+      value: Null
+    max_tokenization_length: 
+      value: 128
+    transformer_tokenizer_name: 
+      value: model_state/vinai/bertweet-base
+    transformer_name: 
+      value: model_state/vinai/bertweet-base
+
+  # ---------------------------------------------------------------- 
+  robert_base_sentiment:
+    label_size: 
+      value: Null
+    max_tokenization_length: 
+      value: 512
+    transformer_tokenizer_name: 
+      value: model_state/cardiffnlp/twitter-roberta-base-sentiment-latest
+    transformer_name: 
+      value: model_state/cardiffnlp/twitter-roberta-base-sentiment-latest
+  
+  # ----------------------------------------------------------------
+  kebert:
+    label_size: 
+      value: Null
+    max_tokenization_length: 
+      value: 128
+    transformer_tokenizer_name: 
+      value: model_state/kornosk/polibertweet-political-twitter-roberta-mlm
+    transformer_name: 
+      value: model_state/kornosk/polibertweet-political-twitter-roberta-mlm
