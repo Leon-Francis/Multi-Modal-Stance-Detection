@@ -7,3 +7,4 @@ logs
 outputs
 wandb
 tmpt_logs
+.env
